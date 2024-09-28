@@ -118,7 +118,7 @@ position: absolute;
      height: 55%;
      width:46%;
     position: absolute;
-            top: 201px;  /* Moves the image 100px from the top */
+            top: 201px;  
             right: 0%;
   }
 
@@ -129,10 +129,10 @@ position: absolute;
     display: flex;
     left: 2%;
 
-    top: 100px;  /* Positions the line 150px from the top */
-    width: 96%;  /* You can adjust the width of the line */
-    height: 1px; /* Thickness of the line */
-    background-color: rgb(255, 255, 255); /* Line color */
+    top: 100px; 
+    width: 96%;  
+    height: 1px; 
+    background-color: rgb(255, 255, 255); 
   }
   
 
